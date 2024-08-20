@@ -4,7 +4,7 @@ Quickly set up a reproducible notebook environment with sane testing defaults
 
 All work you do inside the container will be synced to your host machine, while still allowing you to do all development in a completely isolated environment. 
 
-## Start dev containers
+## Start the devcontainer and set up your environment
 
 1. Install Docker Desktop
 2. Inside VSCode
