@@ -1,3 +1,6 @@
+# Define any classes and functions here that can be isolated
+# outside of the notebook to allow for easier testing
+
 class Adder:
     def add(self, x, y) -> int:
         return x + y

@@ -1,6 +1,8 @@
 from lib import Adder, Multiplier
 import pytest
 
+# Test your lib code here before using it interactively in your notebook
+
 def test_adder():
     adder = Adder()
 
